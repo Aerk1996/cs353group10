@@ -3,38 +3,18 @@ Welcome to our project description page. The application name of our project is 
 
 ### Group Members
 
-Mehmet Erkin Şahsuvaroğlu 21401625
+Mehmet Erkin Şahsuvaroğlu 21401625 <br/>
 
-İbrahim Furkan Aygar 21400186  
+İbrahim Furkan Aygar 21400186  <br/>
 
-Suleyman Rahimov 21701671 
+Suleyman Rahimov 21701671 <br/>
+ 
+Enes Yıldırım 21602725  <br/>
 
-Enes Yıldırım 21602725 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Detailed Information
 
-- Bulleted
-- List
+Buraya pdf linki ekleriz...
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aerk1996/cs353group10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
