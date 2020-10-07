@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Mediaconnectx
+Welcome to our project description page. The application name of our project is "Mediaconnectx". Our project is a web application that allows users to watch movie or series via web services. Remarkable point of our project is user can create a channels which is kind of list of s/he is going to watch later or in a proposed time. We design our models in database that collects the properties of users, movies, series and channels. Therefore users can edit and update the events easily. On the other hand users can have friends and see their channels. 
 
-You can use the [editor on GitHub](https://github.com/Aerk1996/cs353group10/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Group Members
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mehmet Erkin Şahsuvaroğlu 21401625
+İbrahim Furkan Aygar 21400186  
+Suleyman Rahimov 21701671 
+Enes Yıldırım 21602725 
 
 ```markdown
 Syntax highlighted code block
