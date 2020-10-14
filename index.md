@@ -15,8 +15,8 @@ Enes Yıldırım 21602725  <br/>
 
 ### Detailed Information
 
-Buraya pdf linki ekleriz...
-<a href="https://github.com/Aerk1996/cs353group10/blob/main/cs353proposal.pdf" target="_blank">PDF.</a>
+Project Proposal Report
+<a href="https://github.com/Aerk1996/cs353group10/blob/main/cs353proposal.pdf" target="_blank">click here.</a>
 
 
 
