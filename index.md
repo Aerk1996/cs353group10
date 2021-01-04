@@ -21,3 +21,6 @@ Project Proposal Report
 Project Design Report 
 <a href="https://github.com/Aerk1996/cs353group10/blob/main/cs353_DesignReport_Team10.pdf" target="_blank">click here.</a>
 
+Project Final Report
+<a href="https://github.com/Aerk1996/cs353group10/blob/main/cs353FinalReport.pdf" target="_blank">click here.</a>
+
